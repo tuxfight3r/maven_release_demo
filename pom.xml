@@ -5,7 +5,7 @@
   <groupId>org.sonatype.mavenbook.multi</groupId>
   <artifactId>simple-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.6</version>
+  <version>1.7</version>
   <name>simple-parent</name>
   <description>
      Multi Chapter Simple Parent Project
@@ -41,12 +41,13 @@
          <featureBranchPrefix>feature-</featureBranchPrefix>
          <releaseBranchPrefix>release-</releaseBranchPrefix>
          <hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
-         <versionTagPrefix>blither-</versionTagPrefix>
+         <versionTagPrefix>releasever-</versionTagPrefix>
          </flowInitContext>
          <autoVersionSubmodules>true</autoVersionSubmodules>
          <enableSshAgent>true</enableSshAgent>
          <noDeploy>true</noDeploy>
          <allowUntracked>true</allowUntracked>
+         <pushReleases>true</pushReleases>
           </configuration>
       </plugin>
     </plugins>
