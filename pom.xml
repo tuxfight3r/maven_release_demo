@@ -5,7 +5,7 @@
   <groupId>org.sonatype.mavenbook.multi</groupId>
   <artifactId>simple-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.4</version>
   <name>simple-parent</name>
   <description>
      Multi Chapter Simple Parent Project
