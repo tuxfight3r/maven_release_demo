@@ -1,0 +1,6 @@
+org/sonatype/mavenbook/weather/WeatherFormatter.class
+org/sonatype/mavenbook/weather/WeatherService.class
+org/sonatype/mavenbook/weather/Weather.class
+org/sonatype/mavenbook/weather/Main.class
+org/sonatype/mavenbook/weather/YahooParser.class
+org/sonatype/mavenbook/weather/YahooRetriever.class

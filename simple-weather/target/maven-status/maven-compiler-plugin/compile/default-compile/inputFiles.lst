@@ -1,0 +1,6 @@
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/WeatherService.java
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooRetriever.java
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/Main.java
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/Weather.java
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooParser.java
+/home/ec2-user/workspace/maven_release_demo/simple-weather/src/main/java/org/sonatype/mavenbook/weather/WeatherFormatter.java
